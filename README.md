@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm currently holding a tech lead position and I love studying and testing different technologies, tools, and software architectures.
+I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
+
 
 👷 I’m currently working with:
 - Kubernetes
