@@ -1,7 +1,19 @@
 ### Hi there 👋
 
-I currently hold a management position, but as a hobby I really love studying and testing different types of technologies and software architectures.
+I'm currently holding a tech lead position and I love studying and testing different technologies, tools, and software architectures.
 
-- 🌱 I’m currently learning Golang, Java, NestJS and Apache Kafka
-- 👯 I’m looking to collaborate on Open Source projects
+👷 I’m currently working with:
+- Kubernetes
+- ArgoCD / GitOps    
+- Terraform
+- Azure
+- Azure DevOps
 
+
+🌱 I’m currently learning:
+- Go / Golang
+    
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/brunokino/brunokino" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/brunokino" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/brunokinoshita/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
