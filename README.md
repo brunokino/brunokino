@@ -15,6 +15,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 🌱 I’m currently learning:
 - Go / Golang
 - Backstage
+- Crossplane
     
 
 <h3>Where to find me</h3>
